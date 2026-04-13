@@ -17,11 +17,11 @@ UniTrack is a fully functional university Learning Management System (LMS) with 
 
 | S.No | URN | Name | Role |
 |------|-----|------|------|
-| 1 | 22CSE001 | Aryan Sharma (LEAD) | Backend Development & Git Integration |
-| 2 | 22CSE002 | Priya Singh | Frontend UI/UX Development |
-| 3 | 22CSE003 | Rahul Gupta | Database Design (MySQL) |
-| 4 | 22CSE004 | Sneha Verma | Testing & Documentation |
-| 5 | 22CSE005 | Karan Mehta | VCS Logic & GitHub Integration |
+| 1 | 248 | Manas Kainth (LEAD) | Backend Development & Git Integration |
+| 2 | 2481156 | Manjot Singh | Frontend UI/UX Development |
+| 3 | 2481077 | Manveer Singh Bhalla | Database Design (MySQL) |
+| 4 | 248 | Mannat Kapoor | Testing & Documentation |
+| 5 | 248 | Mehak Arora | VCS Logic & GitHub Integration |
 
 ---
 
